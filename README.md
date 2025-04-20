@@ -32,7 +32,10 @@ I believe with consistency and hard work, anything is possible. 💪
 
 ## 📫 How to reach me
 
-- LinkedIn: [www.linkedin.com/in/techwith-gaurav-b00947267]
+- LinkedIn: [www.linkedin.com/in/
+gaurav-kumar-b00947267
+Vanity URL name
+]
 - Email: [gauravsingh070371@gmail.com]
 
 ---
