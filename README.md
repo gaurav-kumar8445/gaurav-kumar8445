@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/banner.jpg" alt="developer banner" />
+  <img src="https://th.bing.com/th/id/OIP.6jB65BtSCnwg4TTJXUhWGwHaDe?w=349&h=164&c=7&r=0&o=5&dpr=1.3&pid=1.7" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
@@ -32,8 +32,8 @@ I believe with consistency and hard work, anything is possible. 💪
 
 ## 📫 How to reach me
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email]
+- LinkedIn: [www.linkedin.com/in/techwith-gaurav-b00947267]
+- Email: [gauravsingh070371@gmail.com]
 
 ---
 
