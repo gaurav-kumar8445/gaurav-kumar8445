@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
   
-  <img src="https://th.bing.com/th/id/OIP.6jB65BtSCnwg4TTJXUhWGwHaDe?w=349&h=164&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="700px" />
+  <img src="https://th.bing.com/th/id/OIP.6jB65BtSCnwg4TTJXUhWGwHaDe?w=349&h=164&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="700px" height="200px" />
 
 </p>
 
