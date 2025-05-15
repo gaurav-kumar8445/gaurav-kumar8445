@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
   
-  <img src="https://images.unsplash.com/photo-1737737351943-82e01f866e53?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTkwfHx3ZWIlMjBkZXZlbG9wbWVudHxlbnwwfHwwfHx8MA%3D%3D" width="400px" height="400px" />
+  <img src="https://media.istockphoto.com/id/2158153560/photo/programming-or-developing-a-software-or-game-application-program-or-code-development-on-3d.jpg?s=2048x2048&w=is&k=20&c=vPILUp_T7ATSf766NttRUYyDeAnRT6zkb8YKfmw5Vu0=" width="600px" height="600px" />
 
 </p>
 
