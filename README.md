@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
   
-  <img src="https://media.istockphoto.com/id/1301010987/vector/website-programming-and-coding-web-development-and-coding-3d-vector-illustrations.jpg?s=612x612&w=0&k=20&c=gLZUAJPFBu2VuEsdlqCWOgy-Cy859BvTDY17bZ_75r0=" width="800px" height="500px" />
+  <img src="https://media.istockphoto.com/id/1301010987/vector/website-programming-and-coding-web-development-and-coding-3d-vector-illustrations.jpg?s=612x612&w=0&k=20&c=gLZUAJPFBu2VuEsdlqCWOgy-Cy859BvTDY17bZ_75r0=" width="600px" height="600px" />
 
 </p>
 
