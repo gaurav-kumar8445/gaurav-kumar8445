@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
   
-  <img src="https://images.unsplash.com/photo-1737737351943-82e01f866e53?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTkwfHx3ZWIlMjBkZXZlbG9wbWVudHxlbnwwfHwwfHx8MA%3D%3D" width="700px" height="600px" />
+  <img src="https://images.unsplash.com/photo-1737737351943-82e01f866e53?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTkwfHx3ZWIlMjBkZXZlbG9wbWVudHxlbnwwfHwwfHx8MA%3D%3D" width="400px" height="400px" />
 
 </p>
 
