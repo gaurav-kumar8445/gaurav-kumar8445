@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
   
-  <img src="https://media.istockphoto.com/id/2158153560/photo/programming-or-developing-a-software-or-game-application-program-or-code-development-on-3d.jpg?s=2048x2048&w=is&k=20&c=vPILUp_T7ATSf766NttRUYyDeAnRT6zkb8YKfmw5Vu0=" width="800px" height="600px" />
+  <img src="https://media.istockphoto.com/id/2191722433/photo/software-development-with-ai-ai-coding-assistant-smart-web-and-app-development-3d-robot.jpg?s=612x612&w=0&k=20&c=omK9FSUN3-1n5I6DnepjY46QTnYKd8yNyGp47xtVtSk=" width="1000px" height="500px" />
 
 </p>
 
