@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
   
-  <img src="https://media.istockphoto.com/id/2157269063/photo/software-development-coding-process-concept-coding-on-3d-laptop-on-blue-background.jpg?s=612x612&w=0&k=20&c=04tyYQZd093uXC9HqTmo28hGlDxmEG5dGMz3YznCm-M=" width="800px" height="500px" />
+  <img src="https://www.istockphoto.com/photo/floating-programming-code-interface-with-html-css-js-elements-and-ui-symbols-on-dark-gm2208636414-625787358" width="800px" height="500px" />
 
 </p>
 
