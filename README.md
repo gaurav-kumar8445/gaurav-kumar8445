@@ -5,7 +5,7 @@
 
 </p>
 
-<h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
+<h1 align="center">Hi 👋, I'm Gaurav Kumar Passionate Frontend Developer</h1>
 
 ## 🙋‍♂️ About Me
 
