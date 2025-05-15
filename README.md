@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
   
-  <img src="https://media.istockphoto.com/id/2191722433/photo/software-development-with-ai-ai-coding-assistant-smart-web-and-app-development-3d-robot.jpg?s=612x612&w=0&k=20&c=omK9FSUN3-1n5I6DnepjY46QTnYKd8yNyGp47xtVtSk=" width="1000px" height="500px" />
+  <img src="https://media.istockphoto.com/id/2157269063/photo/software-development-coding-process-concept-coding-on-3d-laptop-on-blue-background.jpg?s=612x612&w=0&k=20&c=04tyYQZd093uXC9HqTmo28hGlDxmEG5dGMz3YznCm-M=" width="800px" height="500px" />
 
 </p>
 
